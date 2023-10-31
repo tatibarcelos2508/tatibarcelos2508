@@ -1,6 +1,6 @@
 ##Olá! Eu sou a Tati Barcelos!<br><br>
 🌻 No momento estou estudando a programação!<br>
-🌺 Acredito que em um futuro muito em breve, com a graça de Deus  estarei colocanco em prática os meus estudos no mercado de trabalho!
+🌺 Acredito que em um futuro muito em breve, com a graça de Deus  estarei colocando em prática os meus estudos no mercado de trabalho!
 
 <div>
 <a href="https://github.com/tatibarcelos2508">
